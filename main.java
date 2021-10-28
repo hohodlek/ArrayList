@@ -39,7 +39,7 @@ public class main {
 		System.out.println(list.get(0));
 		
 		
-		list.set(0, 1000);
+		list.set(0, 100);
 		System.out.println(list.get(0));
 		
 		
